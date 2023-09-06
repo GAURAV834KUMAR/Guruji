@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "458409371497",
+    "project_id": "guruji-80eee",
+    "storage_bucket": "guruji-80eee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458409371497:android:b50c93244e2f56002e3ff8",
+        "android_client_info": {
+          "package_name": "com.clay.guruji"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "458409371497-rln03j6a0am6j8flha40ghurqr4fi862.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.clay.guruji",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "458409371497-2cde3oq0paaath2g1g80caonq0a3h1cm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBymA2GDSZTcBDKxhTTuHChO2YADOYvWOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "458409371497-2cde3oq0paaath2g1g80caonq0a3h1cm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "458409371497-7dllt56cqo1f20shqa68alrkqsrb3gvt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.clay.guruji"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
